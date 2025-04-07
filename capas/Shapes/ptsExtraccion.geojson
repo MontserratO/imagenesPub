@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "ptsExtraccion",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Id": 0, "Nombre": "Presa El Realito" }, "geometry": { "type": "Point", "coordinates": [ -100.238571507228627, 21.607647574999678 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Nombre": "Río Panúco" }, "geometry": { "type": "Point", "coordinates": [ -98.492035032678658, 21.960207318986598 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Nombre": "Río Moctezuma" }, "geometry": { "type": "Point", "coordinates": [ -99.545983617772819, 20.744697580011898 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Nombre": "Presa Tuxpán" }, "geometry": { "type": "Point", "coordinates": [ -100.405228482377055, 19.531681788021384 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Nombre": "Presa del Bosque" }, "geometry": { "type": "Point", "coordinates": [ -100.406684704499909, 19.402437886114352 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Nombre": "Presa Ixtapan del Oro" }, "geometry": { "type": "Point", "coordinates": [ -100.304350961069531, 19.266766697894862 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Nombre": "Presa Colorines" }, "geometry": { "type": "Point", "coordinates": [ -100.222131984803241, 19.174461830848884 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Nombre": "Presa Miguel Alemán" }, "geometry": { "type": "Point", "coordinates": [ -100.175720357466233, 19.204594667106271 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Nombre": "Presa Chilesdo" }, "geometry": { "type": "Point", "coordinates": [ -100.159450177113158, 19.36009815253016 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Nombre": "Presa Villa Victoria" }, "geometry": { "type": "Point", "coordinates": [ -100.035123559857155, 19.457197178488215 ] } }
+]
+}
